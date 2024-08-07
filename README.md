@@ -1,3 +1,9 @@
+## About This Project
+
+Saya membuat proyek dashboard data analysis e-commerce dengan menggunakan streamlit dan beberapa library seperti : numpy pandas scipy matplotlib seaborn jupyter streamlit babel. Berikut beberapa step untuk menjalankan project ini.
+
+## Melakukan unduh dataset
+
 Untuk Dataset dan juga Data Dashboard dapat diunduh melalui link berikut
 
 https://drive.google.com/drive/folders/1t8w9KRzC1TDFxZb8b9n1NwqsG8p46-WM?usp=sharing
@@ -5,7 +11,7 @@ https://drive.google.com/drive/folders/1t8w9KRzC1TDFxZb8b9n1NwqsG8p46-WM?usp=sha
 
 ## Melakukan setup environment
 
-#### Pastikan sudah menginstall conda, untuk mengeceknya bisa mengetikkan 
+#### Pastikan sudah menginstall conda terlebih dahulu, untuk mengeceknya bisa mengetikkan 
 
 conda --version (di terminal), saya sendiri saat ini menggunakan conda 23.7.4
 
